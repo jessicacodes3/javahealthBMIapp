@@ -1,3 +1,5 @@
+// This Java application requests user input by prompting the user to enter their weight, height, and then calculates their BMI. 
+
 import java.util.Scanner;
 
 public class BMI {
